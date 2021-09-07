@@ -25,4 +25,4 @@
 
 [소변염도계 Android](https://dl.dropboxusercontent.com/s/q8tnykonjpsivi3/app-un0101.apk)
 
-[소변염도계 태그샘플링크](https://un01.page.link/?link=https%3A%2F%2Fhome%3Fparam%3DSCIONIX%7C2%7C50%7C3%7C1%7C2%7C0%7C0%7C0%7C1%7C0100%7C210706%7C1%7C1%7C00%7C0000%7C0000%7C000000000%7C00000123%7C00000234%7C00000234%7C00000000%7C00000000&isi=284815942&apn=kr.co.jjansunyi.scionix-un0101&efr=1)
+[소변염도계 태그샘플링크](https://un01.page.link/?link=https%3A%2F%2Fhome%3Fparam%3DSCIONIX%7C2%7C50%7C3%7C2%7C1%7C0%7C0%7C0%7C1%7C0100%7C210706%7C1%7C1%7C00%7C0000%7C0000%7C000000000%7C00000123%7C00000234%7C00000234%7C00000000%7C00000000&isi=284815942&apn=kr.co.jjansunyi.scionix-un0101&efr=1)
