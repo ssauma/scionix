@@ -5,6 +5,8 @@
 [당도계 Android](https://dl.dropboxusercontent.com/s/06dkuqmgqu6xf6r/app-br0101.apk)
 
 [당도계 태그샘플링크](https://br01.page.link/?link=https%3A%2F%2Fhome%3Fparam%3DSCIONIX%7C4%7C50%7C2%7C2%7C2%7C0%7C0%7C0%7C1%7C0100%7C210706%7C1%7C1%7C00%7C0000%7C0000%7C000000000%7C00000123%7C00000234%7C00000234%7C00000000%7C00000000&isi=284815942&apn=kr.co.jjansunyi.scionix-br0101&efr=1)
+
+[당도계 태그샘플링크 2](https://br01.page.link/?link=https%3A%2F%2Fhome%3Fparam%3DSCIONIX%7C4%7C50%7C2%7C2%7C2%7C0%7C0%7C0%7C1%7C0100%7C210706%7C2%7C1%7C00%7C0000%7C0000%7C000000000%7C00000133%7C00000244%7C00000214%7C00000000%7C00000000&isi=284815942&apn=kr.co.jjansunyi.scionix-br0101&efr=1)
 - - -
 
 [음식염도계 iOS](itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/ire44ln71d3n8jm/st.plist)
